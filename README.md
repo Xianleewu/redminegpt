@@ -95,7 +95,7 @@ To set up this project, follow these steps:
 
 3. Configure the Redmine and LLM API credentials in the `config.py` file.
    
-   ```json
+   ```python
    redmine server
    
    REDMINE_SERVER = {
